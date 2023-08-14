@@ -18,7 +18,7 @@ const NavBar = ({ onSearch, cartItemCount }) => {
                 <div className="header py-2">
                     <div className="grid">
                         <Link to="/" className="link">
-                            <h1 className="brand">E-commerce</h1>
+                            <h3 className="brand">Home</h3>
                         </Link>
                         <div className="formContainer">
                             <form className="search">
